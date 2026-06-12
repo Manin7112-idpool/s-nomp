@@ -51,7 +51,7 @@
         "stratum-pool": "git+https://github.com/Manin7112-idpool/node-stratum-pool.git"
     },
     "engines": {
-        "node": ">=8.11"
+        "node": ">=11.15"
     },
     "scripts": {
         "start": "LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PWD/node_modules/stratum-pool/node_modules/equihashverify/build/Release/:$PWD/node_modules/equihashverify/build/Release/ node init.js"
