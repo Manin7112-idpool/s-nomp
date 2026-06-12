@@ -1,6 +1,6 @@
 {
     "name": "s-nomp",
-    "version": "0.0.9",
+    "version": "0.1.9",
     "description": "zero-proof (Equihash) node stratum mining pool based on NOMP",
     "keywords": [
         "stratum",
